@@ -12,7 +12,7 @@ ITS POWER FULL HACKING TOOL
 
 💲 pkg install python2
 
-💲 git clone https://github.com/abhijithmanu/Android--Hacking-
+💲 git clone https://github.com/abhijithmanu/Android-Hacking
 
 💲 cd $HOME
 
