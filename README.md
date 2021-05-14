@@ -16,6 +16,8 @@ ITS POWER FULL HACKING TOOL
 
 💲 cd $HOME
 
+💲 ls
+
 💲 cd Android-Hacking
 
 💲 ls
