@@ -4,7 +4,7 @@ import time
 import say
 def load (word):
          for char in word:
-                print(char,end ='')
+                print(char,end='')
                 says. stdout. flush()
                 time. sleep(0.2)
 def bash():
