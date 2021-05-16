@@ -92,15 +92,15 @@ print(" [4] Man-in-the-middle attack "\n\n")
                         elif u_choice==2:
                         print("BlackdevilH4>>>>>server under maintence..")
                         
-                        elif u_choice=3:
+                        elif u_choice==3:
                         print("BlackkdeviH4>>>>>server under maintenc..")
                         
-                        elif u_choice=4:
+                        elif u_choice==4:
                         print("BlackdevulH4>>>>server under maintence..")
                         
                         time.sleep(3)
                         os.system("cmatrix-L")
-                     
+                     print("char, end =")
             
       
 
