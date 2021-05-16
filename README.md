@@ -26,4 +26,4 @@ ITS POWER FULL HACKING TOOL
 
 
 👾.This tool is only for educational purpose. So it use it as legallY.👾 
----------------------------------------------------------------------------
+--------------------------------------------------------------------------
