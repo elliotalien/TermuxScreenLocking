@@ -18,8 +18,10 @@ def bash():
           print("  ########:: ########: ##:::: ##:. ######:: ##::. ##: ########:: ########:::. ###::::'####: ########: ##:::: ##::::::: ##:: ")
           print(" ........:::........::..:::::..:::......:::..::::..::........:::........:::::...:::::....::........::..:::::..::::::::..::: \n\n")
           time.sleep(3)
-          os.system("echo'cmatrix-l'~/.bashric")
+          os.system("echo 'cmatrix -L' >> ~/.bashrc")
                       
      
 os.system("apt install cmatrix")
-os.system("echo'cmatrix-
+os.system("echo'cmatrix-L'>> ~/bashrc") 
+                      os.system("clear")
+                      
