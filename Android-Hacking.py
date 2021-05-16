@@ -47,6 +47,10 @@ print(" [1] Social median Hacking ")
 print(" [2] Denial-of-service attack (DDOS) ")
 print(" [3] SQL injection ")
 print(" [4] Man-in-the-middle attack "\n\n")
+      
+      u_choice=int(input('Choose a option:  '))
+      if u choice==1:
+      
 
 
 
