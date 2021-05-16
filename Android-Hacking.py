@@ -39,9 +39,16 @@ print("   .8' `888.    `888P"Y88b  d88' `888  `888""8P d88' `88b `888  d88' `888
 print("  .88ooo8888.    888   888  888   888   888     888   888  888  888   888  8888888  888     888   .oP"888  888        888888.     888   888   888  888   888  ")
 print(" .8'     `888.   888   888  888   888   888     888   888  888  888   888           888     888  d8(  888  888   .o8  888 `88b.   888   888   888  `88bod8P' ") 
 print("o88o     o8888o o888o o888o `Y8bod88P" d888b    `Y8bod8P' o888o `Y8bod88P"         o888o   o888o `Y888""8o `Y8bod8P' o888o o888o o888o o888o o888o `8oooooo. ") 
+print("                                                                                                                                                   d"     YD  ")
+print("                                                                                                                                                   "Y88888P' " )
 time.sleep(3)
-                                                                                                                                                   d"     YD  ")
-                                                                                                                                                   "Y88888P' " )
+print("\033[33m")
+print(" [1] Social median Hacking ")
+print(" [2] Denial-of-service attack (DDOS) ")
+print(" [3] SQL injection ")
+print(" [4] Man-in-the-middle attack "\n\n")
+
+
 
                                                                                                                                                               
                       
