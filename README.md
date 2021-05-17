@@ -14,17 +14,17 @@ ITS POWER FULL HACKING TOOL
 
 💲 pkg install python2
 
-💲 git clone https://github.com/abhijithmanu/Android-Hacking
+💲 git clone https://github.com/abhijithmanu/Android-Hack
 
 💲 cd $HOME
 
 💲 ls
 
-💲 cd Android-Hacking
+💲 cd Android-Hack
 
 💲 ls
 
-💲 python Android-Hacking.py
+💲 python Android-Hack.py
 
 
 👾.This tool is only for educational purpose. So it use it as legallY.👾 
