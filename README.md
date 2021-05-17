@@ -24,7 +24,7 @@ ITS POWER FULL HACKING TOOL
 
 💲 ls
 
-💲 python Android-Hack.py
+💲 python Android-Hacking.py
 
 
 👾.This tool is only for educational purpose. So it use it as legallY.👾 
