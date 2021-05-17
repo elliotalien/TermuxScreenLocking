@@ -100,7 +100,7 @@ print(" [4] Man-in-the-middle attack "\n\n")
                         
                         time.sleep(3)
                         os.system("cmatrix-L")
-                     p
+                     
 
             
       
