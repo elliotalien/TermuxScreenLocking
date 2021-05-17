@@ -1,5 +1,3 @@
-![GitHub Logo](repository-open-graph-template-1.png)
-
 # Android-Hacking
 ITS POWER FULL HACKING TOOL
 
@@ -14,13 +12,13 @@ ITS POWER FULL HACKING TOOL
 
 💲 pkg install python2
 
-💲 git clone https://github.com/abhijithmanu/Android-Hack
+💲 git clone https://github.com/abhijithmanu/Android-Hacking
 
 💲 cd $HOME
 
 💲 ls
 
-💲 cd Android-Hack
+💲 cd Android-Hacking
 
 💲 ls
 
