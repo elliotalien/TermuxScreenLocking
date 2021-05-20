@@ -56,7 +56,7 @@ if u_choice==1:
       print("Processing please wait /")
       time.sleep(1)
       os.system("clear")
-      print("processing please wait \")
+      print("processing please wait |")
             time.sleep(1)
             os.system("clear")
             print("peocessing please wait \")
