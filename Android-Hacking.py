@@ -46,7 +46,7 @@ print("\033[33m")
 print(" [1] Social median Hacking ")
 print(" [2] Denial-of-service attack (DDOS) ")
 print(" [3] SQL injection ")
-print(" [4] Man-in-the-middle attack "\n\n")
+print(" [4] Man-in-the-middle attack \n\n")
       
       u_choice=int(input('Choose a option:  '))
       if u_choice==1:
