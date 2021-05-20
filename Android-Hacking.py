@@ -77,28 +77,28 @@ if u_choice==1:
       print("processing please wait ...")
       time.sleep(1)
       os.system("clear")
-                        print("processing please wait | ")
-                        time.sleep(1)
-                        os.system("clear")
-                        print("processing please wait...")
-                        time.sleep(1)
-                        os.system("clear")
-                        print ("processing please wait ***")
-                        time.sleep(1)
-                        os.system("clear")
-                        load('connecting to server.....\n')
-                        bash()
-                        elif u_choice==2:
-                        print("BlackdevilH4>>>>>server under maintence..")
+      print("processing please wait | ")
+      time.sleep(1)
+      os.system("clear")
+      print("processing please wait...")
+      time.sleep(1)
+      os.system("clear")
+      print ("processing please wait ***")
+      time.sleep(1)
+      os.system("clear")
+      load('connecting to server.....\n')
+      bash()
+      elif u_choice==2:
+      print("BlackdevilH4>>>>>server under maintence..")
                         
-                        elif u_choice==3:
-                        print("BlackkdeviH4>>>>>server under maintenc..")
+      elif u_choice==3:
+      print("BlackkdeviH4>>>>>server under maintenc..")
                         
-                        elif u_choice==4:
-                        print("BlackdevulH4>>>>server under maintence..")
+      elif u_choice==4:
+      print("BlackdevulH4>>>>server under maintence..")
                         
-                        time.sleep(3)
-                        os.system("cmatrix-L")
+       time.sleep(3)
+       os.system("cmatrix-L")
                      
 
             
