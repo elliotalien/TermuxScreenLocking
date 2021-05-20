@@ -88,13 +88,14 @@ if u_choice==1:
       os.system("clear")
       load('connecting to server.....\n')
       bash()
-     if u_choice==2:
+
+   elif u_choice=2:
       print("BlackdevilH4>>>>>server under maintence..")
                         
-     if u_choice==3:
+   elif u_choice=3:
       print("BlackkdeviH4>>>>>server under maintenc..")
                         
-     if u_choice==4:
+   elif u_choice==4:
       print("BlackdevulH4>>>>server under maintence..")
                         
        time.sleep(3)
