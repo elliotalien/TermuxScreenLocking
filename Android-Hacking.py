@@ -1,7 +1,7 @@
 #!bin/python
 import os
 import time
-import say 
+import 'say'
 def load (word):
          for char in word:
                 print( char,end='')
