@@ -4,25 +4,25 @@ ITS POWER FULL HACKING TOOL
 # TOOl FOR ANDROID 📱 (TERMUX)
 ----------- copy this command -----------
 
-💲 apt update && apt upgrade
+💲 ```apt update && apt upgrade ```
 
-💲 pkg install git
+💲 ```pkg install git ```
 
-💲 pkg install Python
+💲 ```pkg install Python ```
 
-💲 pkg install python2
+💲 ```pkg install python ```
 
-💲 git clone https://github.com/abhijithmanu/Android-Hacking
+💲 ``` git clone https://github.com/abhijithmanu/Androidhacking ```
 
-💲 cd $HOME
+💲 ```cd $HOME ```
 
-💲 ls
+💲 ``` ls ```
 
-💲 cd Android-Hacking
+💲 ```cd Androidhacking ```
 
-💲 ls
+💲 ```ls```
 
-💲 python Android-Hacking.py
+💲 ```python Androidhacking.py ```
 
 👾.This tool is only for educational purpose. So it use it as legallY.👾 
 --------------------------------------------------------------------------
