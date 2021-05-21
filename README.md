@@ -1,5 +1,5 @@
 # Android-Hacking
-ITS POWER FULL HACKING TOOL
+```       ITS POWER FULL HACKING TOOL      ```
 
 # TOOl FOR ANDROID 📱 (TERMUX)
 ----------- copy this command -----------
