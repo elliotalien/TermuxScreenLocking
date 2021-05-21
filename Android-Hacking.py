@@ -49,7 +49,7 @@ print(" [3] SQL injection ")
 print(" [4] Man-in-the-middle attack \n\n")
 u_choice=int(input('Choose a option:  '))
 if u_choice==1:
-      os.syatem ("clear ")..................
+      os.syatem ("clear ")
       print("Processing please wait.....")
       time.sleep(1)
       os.system("clear")
