@@ -2,7 +2,7 @@
 import os
 import time
 import say
- def load (word):
+def load (word):
          for char in word:
                 print( char,end='')
                 says.stdout.flush()
