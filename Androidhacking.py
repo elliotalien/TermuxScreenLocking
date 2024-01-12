@@ -1,36 +1,37 @@
-#!bin/python
+#!/bin/python
 import os
 import time
 import sys
-def load (word):
-         for char in word:
-                print( char,end='')
-                says.stdout.flush()
-                time. sleep(0.2)
+
+def load(word):
+    for char in word:
+        print(char, end='')
+        sys.stdout.flush()
+        time.sleep(0.2)
+
 def bash():
-          print("\033[31m")
-          print(" '########::'##::::::::::'###:::::'######::'##:::'##:'########::'########:'##::::'##:'####:'##:::::::'##::::'##:'##::::::::     ")
-          print("  ##.... ##: ##:::::::::'## ##:::'##... ##: ##::'##:: ##.... ##: ##.....:: ##:::: ##:. ##:: ##::::::: ##:::: ##: ##:::'##::     ")
-          print("  ##:::: ##: ##::::::::'##:. ##:: ##:::..:: ##:'##::: ##:::: ##: ##::::::: ##:::: ##:: ##:: ##::::::: ##:::: ##: ##::: ##::     ")
-          print("  ########:: ##:::::::'##:::. ##: ##::::::: #####:::: ##:::: ##: ######::: ##:::: ##:: ##:: ##::::::: #########: ##::: ##::     ")
-          print("  ##.... ##: ##::::::: #########: ##::::::: ##. ##::: ##:::: ##: ##...::::. ##:: ##::: ##:: ##::::::: ##.... ##: #########:     ")
-          print("  ##:::: ##: ##::::::: ##.... ##: ##::: ##: ##:. ##:: ##:::: ##: ##::::::::. ## ##:::: ##:: ##::::::: ##:::: ##:...... ##::     ")
-          print("  ########:: ########: ##:::: ##:. ######:: ##::. ##: ########:: ########:::. ###::::'####: ########: ##:::: ##::::::: ##::     ")
-          print(" ........:::........::..:::::..:::......:::..::::..::........:::........:::::...:::::....::........::..:::::..::::::::..::: \n\n ")
-          time.sleep(3)
-          os.system("echo 'cmatrix -L' >> ~/.bashrc")
-                      
-     
+    print("\033[31m")
+    print(" '########::'##::::::::::'###:::::'######::'##:::'##:'########::'########:'##::::'##:'####:'##:::::::'##::::'##:'##::::::::     ")
+    print("  ##.... ##: ##:::::::::'## ##:::'##... ##: ##::'##:: ##.... ##: ##.....:: ##:::: ##:. ##:: ##::::::: ##:::: ##: ##:::'##::     ")
+    print("  ##:::: ##: ##::::::::'##:. ##:: ##:::..:: ##:'##::: ##:::: ##: ##::::::: ##:::: ##:: ##:: ##::::::: ##:::: ##: ##::: ##::     ")
+    print("  ########:: ##:::::::'##:::. ##: ##::::::: #####:::: ##:::: ##: ######::: ##:::: ##:: ##:: ##::::::: #########: ##::: ##::     ")
+    print("  ##.... ##: ##::::::: #########: ##::::::: ##. ##::: ##:::: ##: ##...::::. ##:: ##::: ##:: ##::::::: ##.... ##: #########:     ")
+    print("  ##:::: ##: ##::::::: ##.... ##: ##::: ##: ##:. ##:: ##:::: ##: ##::::::::. ## ##:::: ##:: ##::::::: ##:::: ##:...... ##::     ")
+    print("  ########:: ########: ##:::: ##:. ######:: ##::. ##: ########:: ########:::. ###::::'####: ########: ##:::: ##::::::: ##::     ")
+    print("  ........:::........::..:::::..:::......:::..::::..::........:::........:::::...:::::....::........::..:::::..::::::::..::: \n\n ")
+    time.sleep(3)
+    os.system("echo 'cmatrix -L' >> ~/.bashrc")
+
 os.system("apt install cmatrix")
-os.system("echo'cmatrix-L'>> ~/bashrc") 
+os.system("echo 'cmatrix -L' >> ~/.bashrc")
 os.system("clear")
 time.sleep(4)
 
 print("\033[33m")
-print("...This is private Android-Hacking Tool.By BlackdevilH4...")
+print("...This is a private Android-Hacking Tool. By Elliotalien...")
 time.sleep(4)
 
-os.system(' clear ')
+os.system('clear')
 print("\033[32;1m")
 print("        o                           o8                      o8o         o8          ooooo   ooooo                     oooo         o8o                         ")                     
 print("       888                         888                                 888           888     888                       888                                      ")                     
@@ -43,65 +44,56 @@ print(".........................................................................
 print(" .................................................................................................................................................  .Y88888P   ")
 time.sleep(3)
 print("\033[33m")
-print(" [1] Social median Hacking ")
+print(" [1] Social Media Hacking ")
 print(" [2] Denial-of-service attack (DDOS) ")
 print(" [3] SQL injection ")
-print(" [4] Man-in-the-middle attack \n\n")
-u_choice=int(input('Choose a option:  '))
-if u_choice==1:
-      os.syatem ("clear ")
-      print("Processing please wait.....")
-      time.sleep(1)
-      os.system("clear")
-      print("Processing please wait /")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait |")
-      time.sleep(1)
-      os.system("clear")
-      print("peocessing please wait..")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait ...")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait |")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait ...")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait-")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait ...")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait | ")
-      time.sleep(1)
-      os.system("clear")
-      print("processing please wait...")
-      time.sleep(1)
-      os.system("clear")
-      print ("processing please wait ***")
-      time.sleep(1)
-      os.system("clear")
-      load('connecting to server.....\n')
-      bash()
-elif u_choice ==2:
-      print("BlackdevilH4>>>>>server under maintence..")
-elif u_choice ==3:
-      print("BlackkdeviH4>>>>>server under maintenc..")
-elif u_choice ==4:
-      print("BlackdevulH4>>>>server under maintence..")
-      time.sleep(3)
-      os.system("cmatrix -L")
-                     
-
-            
-      
-
-
-
-                                                                                                                                                              
-                      
+print(" [4] Man-in-the-middle attack \n\n")
+u_choice = int(input('Choose an option:  '))
+if u_choice == 1:
+    os.system("clear ")
+    print("Processing, please wait.....")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait /")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait |")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait..")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait ...")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait |")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait ...")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait-")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait ...")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait | ")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait...")
+    time.sleep(1)
+    os.system("clear")
+    print("Processing, please wait ***")
+    time.sleep(1)
+    os.system("clear")
+    load('Connecting to the server.....\n')
+    bash()
+elif u_choice == 2:
+    print(">>>>> Server under maintenance.")
+elif u_choice == 3:
+    print(">>>>> Server under maintenance.")
+elif u_choice == 4:
+    print(">>>>> Server under maintenance.")
+    time.sleep(3)
+    os.system("cmatrix -L")
